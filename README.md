@@ -56,7 +56,7 @@ All models use ImageNet pre-trained weights with frozen backbones:
 
 ### Prerequisites
 ```bash
-pip install torch torchvision pandas numpy matplotlib scikit-learn tqdm Pillow
+pip install requirements.txt
 ```
 
 
