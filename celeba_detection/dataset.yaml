@@ -1,0 +1,26 @@
+names:
+  0: celebrity_1757
+  1: celebrity_2070
+  2: celebrity_2114
+  3: celebrity_2820
+  4: celebrity_3227
+  5: celebrity_3699
+  6: celebrity_3745
+  7: celebrity_3782
+  8: celebrity_4126
+  9: celebrity_4262
+  10: celebrity_4740
+  11: celebrity_4887
+  12: celebrity_4978
+  13: celebrity_6568
+  14: celebrity_8968
+  15: celebrity_9152
+  16: celebrity_9256
+  17: celebrity_9840
+  18: celebrity_9915
+  19: celebrity_10173
+nc: 20
+path: /Users/Deep Learning Core/celeba_detection
+test: images/test
+train: images/train
+val: images/val
