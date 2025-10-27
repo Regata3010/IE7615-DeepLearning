@@ -1,0 +1,53 @@
+names:
+  0: celebrity_228
+  1: celebrity_447
+  2: celebrity_487
+  3: celebrity_800
+  4: celebrity_1158
+  5: celebrity_1499
+  6: celebrity_1757
+  7: celebrity_1852
+  8: celebrity_1964
+  9: celebrity_2425
+  10: celebrity_2463
+  11: celebrity_2522
+  12: celebrity_2562
+  13: celebrity_2820
+  14: celebrity_2837
+  15: celebrity_2880
+  16: celebrity_3227
+  17: celebrity_3321
+  18: celebrity_3401
+  19: celebrity_3431
+  20: celebrity_3698
+  21: celebrity_3699
+  22: celebrity_3745
+  23: celebrity_3782
+  24: celebrity_4126
+  25: celebrity_4304
+  26: celebrity_4561
+  27: celebrity_5239
+  28: celebrity_5260
+  29: celebrity_6098
+  30: celebrity_6568
+  31: celebrity_7282
+  32: celebrity_7479
+  33: celebrity_7904
+  34: celebrity_8045
+  35: celebrity_8265
+  36: celebrity_8656
+  37: celebrity_8722
+  38: celebrity_8871
+  39: celebrity_8945
+  40: celebrity_8968
+  41: celebrity_9063
+  42: celebrity_9151
+  43: celebrity_9152
+  44: celebrity_9256
+  45: celebrity_9319
+  46: celebrity_10173
+nc: 47
+path: /Users/Deep Learning Core/detection_dataset_47
+test: images/test
+train: images/train
+val: images/val
